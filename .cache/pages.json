@@ -46,8 +46,13 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
-        "jsonName": "blog-hello-world-47c",
-        "path": "/blog/hello-world/"
+        "jsonName": "blog-fcr-17f",
+        "path": "/blog/FCR/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-hello-world-img-24b",
+        "path": "/blog/hello-world/img/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",

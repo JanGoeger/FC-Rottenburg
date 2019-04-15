@@ -4,7 +4,7 @@ date: 2019-04-04
 description: Bezirksliga Alb
 ---
 
-![Football](img/1200/16x9/02.jpg)
+![Football](1200/16x9/06.jpg)
 
 **Endlich ist es soweit!**
 Der Start in die Rückrunde der Saison 18/19 in der Bezirksliga steht morgen an.
