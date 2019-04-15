@@ -29,11 +29,6 @@ const IndexPage = () => (
       <H1>Wir für Deine Stadt!</H1>
       <P>Willkommen auf der (in)offiziellen Homepage des FC Rottenburg 1946 </P>
       <P />
-      <P>
-        Of course, you can also use icons, e.g.{" "}
-        <FontAwesomeIcon icon="coffee" />, <FontAwesomeIcon icon="yin-yang" />,{" "}
-        <FontAwesomeIcon icon="peace" />.
-      </P>
     </Section>
   </Layout>
 );
