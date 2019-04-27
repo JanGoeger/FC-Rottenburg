@@ -29,6 +29,12 @@ const IndexPage = () => (
       <H1>Wir für Deine Stadt!</H1>
       <P>Willkommen auf der (in)offiziellen Homepage des FC Rottenburg 1946 </P>
       <P />
+      Dies ist nur die inoffizielle Homepage und gilt als Uniprojekt. Bei Fragen
+      oder Anregungen zur Homepage, bitte kontaktieren Sie mich per &nbsp;{" "}
+      <a href="mailto:jangoeger95@web.de?subject=Fragen, Anregungen, Kritik">
+        E-Mail.
+      </a>
+      &nbsp; Generell, freue ich mich sehr über sämtliches Feedback!
     </Section>
   </Layout>
 );
