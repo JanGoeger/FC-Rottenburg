@@ -2161,13 +2161,12 @@
       "port": "8000",
       "host": "localhost",
       "pathPrefix": "/blog",
-      "polyfill": true,
       "buildTime": "2019-04-01T15:34:14.538Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "79938aa3f193348dfca12531c4704138",
+        "contentDigest": "a617eaee9f7f2820cc784cf3f7fc790e",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
