@@ -2152,7 +2152,7 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Starter Ulrich Anders",
+        "title": "FC Rottenburg",
         "description": "This is a starter that is used for teaching at the Cologne Business School.",
         "author": "Dr. Ulrich Anders",
         "version": "0.8.0",
@@ -2166,7 +2166,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "a617eaee9f7f2820cc784cf3f7fc790e",
+        "contentDigest": "d184e6488604ec30ebb9a5f21ae7e51a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -6238,19 +6238,19 @@
     "data-protection-e0a": "900/path---data-protection-e-0-a-bb0-NZuapzHg3X9TaN1iIixfv1W23E",
     "imprint-01e": "263/path---imprint-01-e-b54-NZuapzHg3X9TaN1iIixfv1W23E",
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
-    "blog-your-story-2bc": "92/path---blog-your-story-2-bc-c1b-Kfvo3FBl3crX525luE5OJJoEpk4",
+    "blog-your-story-2bc": "324/path---blog-your-story-2-bc-c1b-Lj4gOb5P9ysrYCxwwA1Pngjge8",
     "jugend-286": "396/path---jugend-286-aff-NZuapzHg3X9TaN1iIixfv1W23E",
     "references-1ad": "927/path---references-1-ad-3af-NZuapzHg3X9TaN1iIixfv1W23E",
     "shop-f04": "352/path---shop-f-04-f3f-NZuapzHg3X9TaN1iIixfv1W23E",
-    "newsfeed-926": "479/path---newsfeed-926-852-1mmDDQ1TRVFqXOzLenejQB8GA",
+    "newsfeed-926": "558/path---newsfeed-926-852-yeP4acqr0LObQ9sxht2d9xEmuLs",
     "blog-hello-world-47c": "678/path---blog-hello-world-47-c-0e0-XCglvXCUo5w1gzIwbZgupbnk9o",
     "tickets-032": "782/path---tickets-032-e69-NZuapzHg3X9TaN1iIixfv1W23E",
     "tickets-1-a9e": "570/path---tickets-1-a-9-e-478-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "tabelle-3f4": "455/path---tabelle-3-f-4-fbd-NZuapzHg3X9TaN1iIixfv1W23E",
     "blog-79f": "738/path---blog-79-f-ebd-fMQnRVqAEH0LsFzWpV1Nh3e8",
-    "blog-fcr-17f": "996/path---blog-fcr-17-f-79b-I05rmKZvvIE2v32APkNKepfmPs",
-    "blog-hello-world-img-24b": "98/path---blog-hello-world-img-24-b-f61-wUhNAJ1zo6frlf313BwbbxzBVH0"
+    "blog-fcr-17f": "169/path---blog-fcr-17-f-79b-VSt2XaeWGe4rmQ7jKLjLF4W9J7Y",
+    "blog-hello-world-img-24b": "959/path---blog-hello-world-img-24-b-f61-y1Qnu2XwM4U8ki330JbybexfAM"
   },
   "components": {
     "/Users/JanGoeger/Desktop/CBS/FC-Rottenburg/src/templates/blog-post.js": {
